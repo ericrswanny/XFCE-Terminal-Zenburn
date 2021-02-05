@@ -1,0 +1,9 @@
+[Scheme]
+Name=Zenburn
+ColorCursor=#DCDCCC
+ColorForeground=#DCDCCC
+ColorBackground=#3F3F3F
+TabActivityColor=#88C0D0
+ColorPalette=#2f2f2f;#BF616A;#A3BE8C;#EBCB8B;#81A1C1;#B48EAD;#88C0D0;#E5E9F0;#8f8f8f;#BF616A;#A3BE8C;#EBCB8B;#81A1C1;#B48EAD;#8FBCBB;#ECEFF4
+ColorBold=#DCDCCC
+ColorBoldUseDefault=FALSE
